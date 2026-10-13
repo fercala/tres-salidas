@@ -1,0 +1,32 @@
+{
+ "name": "Tres Salidas",
+ "short_name": "Tres Salidas",
+ "description": "Juego de salas de escape en 3D: veinte salas, solo o en equipo.",
+ "lang": "es",
+ "start_url": "./",
+ "scope": "./",
+ "display": "fullscreen",
+ "orientation": "any",
+ "background_color": "#0f0e0c",
+ "theme_color": "#0f0e0c",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
